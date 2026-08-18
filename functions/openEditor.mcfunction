@@ -1,0 +1,1 @@
+scriptevent animblox:open_editor
